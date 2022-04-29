@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Algo Trading.
+- 🔭 I’m currently working on Algo Trading. 💹
 - 🧘‍♂️ I regularly practice zazen.
 - 👯 I’m looking for deep meaningful connections.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/piotr-yordanov/)
